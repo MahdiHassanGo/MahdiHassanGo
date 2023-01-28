@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MahdiHassanGo
 - -Currently Studying Computer Science and Engineering at American International University Bangladesh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
 - 💞️ Dream is to become a Good Developer 
 - 📫 How to reach me :
 - fb: https://www.facebook.com/mahdihassan.noor 
