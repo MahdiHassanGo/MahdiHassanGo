@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently learning webdev want to be a developer and i have knowledge of  c++,c# java and little bit of sql currently.<br>currently i am good at html css tailwind js and react <br>i am studying CSE at American International University Bangladesh.<br>I love playing games specially story games and coding is my passion
+I am currently pursuing a degree in Computer Science and Engineering (CSE) at the American International University Bangladesh. With a foundational knowledge of programming languages such as C++, C#, Java, and SQL, I am actively expanding my skills in web development.
+
+I have developed proficiency in HTML, CSS, Tailwind, JavaScript, and React, and I aspire to become a skilled developer.
+
+In addition to my academic pursuits, I have a strong passion for coding and enjoy playing story-driven games, which fuels my creativity and problem-solving skills.
 
 
 ## 🌐 Socials:
