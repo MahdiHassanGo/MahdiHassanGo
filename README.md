@@ -8,6 +8,7 @@ In addition to my academic pursuits, I have a strong passion for coding and enjo
 
 ## 🌐 Socials:
 https://www.facebook.com/mahdihassan.noor/
+<br>
 https://www.linkedin.com/in/mahdihassannoorasif/
 
 # 💻 Tech Stack:
