@@ -1,7 +1,3 @@
-Viewed Projects.jsx:1-100
-
-Here is your updated, fully formatted **GitHub Profile README** with all 5 projects from your portfolio codebase integrated (including live links, repository links, descriptions, and tech stacks):
-
 
 <div align="center">
 
