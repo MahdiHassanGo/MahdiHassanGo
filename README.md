@@ -1,8 +1,3 @@
-Viewed HomePage.jsx:1-100
-Viewed transcript.jsonl:1-100
-Viewed transcript.jsonl:37-120
-
-Here is the updated **GitHub Profile README.md** customized with all your latest achievements, research publications, tech stack, and CTF accomplishments from your updated portfolio:
 
 <div align="center">
 
