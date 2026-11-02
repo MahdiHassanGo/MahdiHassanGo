@@ -1,11 +1,7 @@
 
 <div align="center">
 
-  <img
-    src="https://i.ibb.co.com/HxZgT1p/1729365490771.jpg"
-    alt="Mahdi Hassan Noor Asif Banner"
-    width="100%"
-  />
+
 
   <h1>🚀 Mahdi Hassan Noor Asif</h1>
 
